@@ -4,7 +4,7 @@ My solutions for LeetCode problems.
 
 ## Progress
 
-- Easy: 6
+- Easy: 10
 - Medium: 4
 - Hard: 0
 
