@@ -5,7 +5,7 @@ My solutions for LeetCode problems.
 ## Progress
 
 - Easy: 10
-- Medium: 4
+- Medium: 5
 - Hard: 0
 
 # My leetcode account 
