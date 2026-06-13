@@ -4,8 +4,8 @@ My solutions for LeetCode problems.
 
 ## Progress
 
-- Easy: 10
-- Medium: 7
+- Easy: 14
+- Medium: 10
 - Hard: 0
 
 # My leetcode account 
